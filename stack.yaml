@@ -1,0 +1,18 @@
+resolver: lts-7.1
+
+packages:
+- '.'
+
+extra-deps: []
+
+flags: {}
+
+extra-package-dbs: []
+
+templates:
+  params:
+    author-email: justin@stackbuilders.com
+    author-name: justin@stackbuilders.com
+    category: value
+    copyright: value
+    github-username: jsl
